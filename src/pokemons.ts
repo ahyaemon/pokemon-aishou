@@ -1,3 +1,5 @@
+import {katakanaToHiragana} from "./lib/hiragana";
+
 enum PokemonType {
     Normal,
     Fire,
@@ -29,8 +31,7 @@ export function getPokemons(s: string): Pokemon[] {
         return []
     }
     return pokemons.filter(pokemon => {
-
-        return pokemon.name.includes(s)
+        return pokemon.name.includes(s) || katakanaToHiragana(pokemon.name).includes(s)
     })
 }
 
