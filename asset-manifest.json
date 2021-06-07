@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pokemon-aishou/static/css/main.0c7f72d7.chunk.css",
-    "main.js": "/pokemon-aishou/static/js/main.1403e773.chunk.js",
-    "main.js.map": "/pokemon-aishou/static/js/main.1403e773.chunk.js.map",
+    "main.js": "/pokemon-aishou/static/js/main.7aafb5ed.chunk.js",
+    "main.js.map": "/pokemon-aishou/static/js/main.7aafb5ed.chunk.js.map",
     "runtime-main.js": "/pokemon-aishou/static/js/runtime-main.61bfd349.js",
     "runtime-main.js.map": "/pokemon-aishou/static/js/runtime-main.61bfd349.js.map",
     "static/js/2.31172364.chunk.js": "/pokemon-aishou/static/js/2.31172364.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.61bfd349.js",
     "static/js/2.31172364.chunk.js",
     "static/css/main.0c7f72d7.chunk.css",
-    "static/js/main.1403e773.chunk.js"
+    "static/js/main.7aafb5ed.chunk.js"
   ]
 }
