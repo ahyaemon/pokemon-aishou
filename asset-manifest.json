@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pokemon-aishou/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/pokemon-aishou/static/js/main.097a462a.chunk.js",
-    "main.js.map": "/pokemon-aishou/static/js/main.097a462a.chunk.js.map",
-    "runtime-main.js": "/pokemon-aishou/static/js/runtime-main.c5e9f529.js",
-    "runtime-main.js.map": "/pokemon-aishou/static/js/runtime-main.c5e9f529.js.map",
-    "static/js/2.fc3fcb6f.chunk.js": "/pokemon-aishou/static/js/2.fc3fcb6f.chunk.js",
-    "static/js/2.fc3fcb6f.chunk.js.map": "/pokemon-aishou/static/js/2.fc3fcb6f.chunk.js.map",
-    "static/js/3.7146709e.chunk.js": "/pokemon-aishou/static/js/3.7146709e.chunk.js",
-    "static/js/3.7146709e.chunk.js.map": "/pokemon-aishou/static/js/3.7146709e.chunk.js.map",
+    "main.css": "/pokemon-aishou/static/css/main.0c7f72d7.chunk.css",
+    "main.js": "/pokemon-aishou/static/js/main.1403e773.chunk.js",
+    "main.js.map": "/pokemon-aishou/static/js/main.1403e773.chunk.js.map",
+    "runtime-main.js": "/pokemon-aishou/static/js/runtime-main.61bfd349.js",
+    "runtime-main.js.map": "/pokemon-aishou/static/js/runtime-main.61bfd349.js.map",
+    "static/js/2.31172364.chunk.js": "/pokemon-aishou/static/js/2.31172364.chunk.js",
+    "static/js/2.31172364.chunk.js.map": "/pokemon-aishou/static/js/2.31172364.chunk.js.map",
+    "static/js/3.cd68e8f8.chunk.js": "/pokemon-aishou/static/js/3.cd68e8f8.chunk.js",
+    "static/js/3.cd68e8f8.chunk.js.map": "/pokemon-aishou/static/js/3.cd68e8f8.chunk.js.map",
     "index.html": "/pokemon-aishou/index.html",
-    "static/css/main.ea1455b2.chunk.css.map": "/pokemon-aishou/static/css/main.ea1455b2.chunk.css.map",
-    "static/js/2.fc3fcb6f.chunk.js.LICENSE.txt": "/pokemon-aishou/static/js/2.fc3fcb6f.chunk.js.LICENSE.txt"
+    "static/css/main.0c7f72d7.chunk.css.map": "/pokemon-aishou/static/css/main.0c7f72d7.chunk.css.map",
+    "static/js/2.31172364.chunk.js.LICENSE.txt": "/pokemon-aishou/static/js/2.31172364.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5e9f529.js",
-    "static/js/2.fc3fcb6f.chunk.js",
-    "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.097a462a.chunk.js"
+    "static/js/runtime-main.61bfd349.js",
+    "static/js/2.31172364.chunk.js",
+    "static/css/main.0c7f72d7.chunk.css",
+    "static/js/main.1403e773.chunk.js"
   ]
 }
